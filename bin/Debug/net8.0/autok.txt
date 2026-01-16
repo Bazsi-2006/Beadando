@@ -1,0 +1,31 @@
+Tesla Model S; részleges automatizálás; 85; radar,camera,ultrahang; 37,7749|-122,4194; 8; automatikus
+Tesla Model S; részleges automatizálás; 85; radar,camera,ultrahang; 37,7749|-122,4194; 8; automatikus
+Tesla Model 3; részleges automatizálás; 60; radar,camera,lidar; 34,0522|-118,2437; 3; félautomatikus
+Tesla Model X; teljes automatizálás; 95; radar,camera,ultrahang,lidar; 40,7128|-74,0060; 7; automatikus
+Tesla Model Y; részleges automatizálás; 75; radar,camera,ultrahang; 47,1234|-122,4567; 5; félautomatikus
+Nissan Leaf; automatizált vezetés nélkül; 50; radar,camera; 35,6895|139,6917; 2; manuális
+Audi e-tron; részleges automatizálás; 90; radar,lidar,ultrahang; 48,8566|2,3522; 7; félautomatikus
+Audi Q4 e-tron; félautomatikus; 70; radar,camera,ultrahang; 52,5200|13,4050; 4; automatikus
+BMW i3; félautomatikus; 65; radar,camera; 48,8566|2,3522; 2; félautomatikus
+BMW i4; részleges automatizálás; 85; radar,camera,lidar,ultrahang; 34,0522|-118,2437; 9; automatikus
+Chevrolet Bolt EV; automatizált vezetés nélkül; 55; radar,camera; 37,7749|-122,4194; 1; manuális
+Chevrolet Volt; automatizált vezetés nélkül; 50; radar; 42,3601|-71,0589; 0; manuális
+Porsche Taycan; részleges automatizálás; 95; radar,camera,lidar; 48,8566|2,3522; 11; félautomatikus
+Jaguar I-PACE; részleges automatizálás; 85; radar,lidar,ultrahang; 51,5099|-0,1337; 7; automatikus
+Rivian R1T; részleges automatizálás; 90; radar,camera,lidar,ultrahang; 40,7128|-74,0060; 8; félautomatikus
+Rivian R1S; részleges automatizálás; 85; radar,lidar,ultrahang; 34,0522|-118,2437; 6; automatikus
+Lucid Motors Air; részleges automatizálás; 95; radar,lidar,ultrahang; 37,7749|-122,4194; 10; félautomatikus
+Hyundai Ioniq 5; félautomatikus; 70; radar,camera,ultrahang; 37,7749|-122,4194; 5; manuális
+Hyundai Kona Electric; félautomatikus; 65; radar,camera; 34,0522|-118,2437; 3; automatikus
+Ford Mustang Mach-E; félautomatikus; 75; radar,camera; 39,9526|-75,1652; 4; félautomatikus
+Volvo XC40 Recharge; félautomatikus; 80; radar,camera,ultrahang; 40,7128|-74,0060; 6; félautomatikus
+Waymo Waymo One; teljes automatizálás; 60; lidar,camera; 37,7749|-122,4194; 1; automatikus
+Baidu Apollo; részleges automatizálás; 70; radar,camera,lidar,ultrahang; 39,9042|116,4074; 5; automatikus
+Zoox Zoox; teljes automatizálás; 50; lidar,camera,ultrahang; 37,7749|-122,4194; 2; automatikus
+Cruise Cruise AV; részleges automatizálás; 65; radar,camera,lidar,ultrahang; 34,0522|-118,2437; 7; automatikus
+Toyota Prius Prime; félautomatikus; 50; radar,camera; 35,6895|139,6917; 0; félautomatikus
+Mercedes-Benz EQC; részleges automatizálás; 75; radar,camera,lidar; 48,8566|2,3522; 3; félautomatikus
+Volkswagen ID.4; félautomatikus; 70; radar,camera,ultrahang; 52,5200|13,4050; 4; automatikus
+Kia Niro EV; félautomatikus; 65; radar,camera; 37,7749|-122,4194; 2; félautomatikus
+Subaru Solterra; részleges automatizálás; 80; radar,camera,ultrahang,lidar; 34,0522|-118,2437; 8; automatikus
+Mazda MX-30; félautomatikus; 60; radar,camera; 35,6895|139,6917; 1; manuális

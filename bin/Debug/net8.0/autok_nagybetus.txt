@@ -1,0 +1,30 @@
+﻿TESLA MODEL S; részleges automatizálás
+TESLA MODEL 3; részleges automatizálás
+TESLA MODEL X; teljes automatizálás
+TESLA MODEL Y; részleges automatizálás
+NISSAN LEAF; automatizált vezetés nélkül
+AUDI E-TRON; részleges automatizálás
+AUDI Q4 E-TRON; félautomatikus
+BMW I3; félautomatikus
+BMW I4; részleges automatizálás
+CHEVROLET BOLT EV; automatizált vezetés nélkül
+CHEVROLET VOLT; automatizált vezetés nélkül
+PORSCHE TAYCAN; részleges automatizálás
+JAGUAR I-PACE; részleges automatizálás
+RIVIAN R1T; részleges automatizálás
+RIVIAN R1S; részleges automatizálás
+LUCID MOTORS AIR; részleges automatizálás
+HYUNDAI IONIQ 5; félautomatikus
+HYUNDAI KONA ELECTRIC; félautomatikus
+FORD MUSTANG MACH-E; félautomatikus
+VOLVO XC40 RECHARGE; félautomatikus
+WAYMO WAYMO ONE; teljes automatizálás
+BAIDU APOLLO; részleges automatizálás
+ZOOX ZOOX; teljes automatizálás
+CRUISE CRUISE AV; részleges automatizálás
+TOYOTA PRIUS PRIME; félautomatikus
+MERCEDES-BENZ EQC; részleges automatizálás
+VOLKSWAGEN ID.4; félautomatikus
+KIA NIRO EV; félautomatikus
+SUBARU SOLTERRA; részleges automatizálás
+MAZDA MX-30; félautomatikus

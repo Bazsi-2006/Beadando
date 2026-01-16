@@ -1,0 +1,14 @@
+D:\Letöltések\Beadando\bin\Debug\net8.0\Beadando.exe
+D:\Letöltések\Beadando\bin\Debug\net8.0\Beadando.deps.json
+D:\Letöltések\Beadando\bin\Debug\net8.0\Beadando.runtimeconfig.json
+D:\Letöltések\Beadando\bin\Debug\net8.0\Beadando.dll
+D:\Letöltések\Beadando\bin\Debug\net8.0\Beadando.pdb
+D:\Letöltések\Beadando\obj\Debug\net8.0\Beadando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Letöltések\Beadando\obj\Debug\net8.0\Beadando.AssemblyInfoInputs.cache
+D:\Letöltések\Beadando\obj\Debug\net8.0\Beadando.AssemblyInfo.cs
+D:\Letöltések\Beadando\obj\Debug\net8.0\Beadando.csproj.CoreCompileInputs.cache
+D:\Letöltések\Beadando\obj\Debug\net8.0\Beadando.dll
+D:\Letöltések\Beadando\obj\Debug\net8.0\refint\Beadando.dll
+D:\Letöltések\Beadando\obj\Debug\net8.0\Beadando.pdb
+D:\Letöltések\Beadando\obj\Debug\net8.0\Beadando.genruntimeconfig.cache
+D:\Letöltések\Beadando\obj\Debug\net8.0\ref\Beadando.dll
